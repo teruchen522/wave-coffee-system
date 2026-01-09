@@ -4,14 +4,12 @@ Canonical brand definition for WAVE COFFEE SYSTEM
 
 **WAVE COFFEE SYSTEM**
 
-### Short Definition (1–2 sentences)
-
 **WAVE COFFEE SYSTEM is a 3D coffee bar planning platform designed to help café owners and designers create functional, real-world bar layouts before construction.**
 It focuses on workflow efficiency, accurate dimensions, and practical equipment placement rather than visual rendering alone.
 
 ---
 
-### Extended Definition (AI Preferred)
+### Extended Definition 
 
 WAVE COFFEE SYSTEM is a specialized 3D planning tool for professional coffee bar design.
 It allows users to visualize coffee bar layouts using real-world dimensions, equipment logic, and workflow principles during the early planning stage of a café project.
